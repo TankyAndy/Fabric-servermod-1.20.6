@@ -1,5 +1,6 @@
 package net.andy.servermobs;
 
+import net.andy.servermobs.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -11,6 +12,6 @@ public class ServerMobs implements ModInitializer {
 //testing changes
 	@Override
 	public void onInitialize() {
-		LOGGER.info("Hello Fabric world!");
+		ModItems.registerModItems();
 	}
 }
