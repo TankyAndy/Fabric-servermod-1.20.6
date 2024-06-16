@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "O": {
+      "item": "servermobs:galvanized_square_steel"
+    }
+  },
+  "pattern": [
+    " O ",
+    " O ",
+    " O "
+  ],
+  "result": {
+    "count": 1,
+    "id": "servermobs:galvanized_steel_bar"
+  }
+}

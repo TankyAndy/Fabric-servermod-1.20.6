@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "servermobs:block/galvanized_square_steel",
+    "side": "servermobs:block/galvanized_square_steel"
+  }
+}

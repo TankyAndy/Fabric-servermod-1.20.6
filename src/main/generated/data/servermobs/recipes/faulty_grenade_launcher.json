@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": {
+      "item": "minecraft:gunpowder"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "S": {
+      "item": "servermobs:galvanized_steel_sheet"
+    }
+  },
+  "pattern": [
+    "IGI",
+    "SGS",
+    "SGS"
+  ],
+  "result": {
+    "count": 4,
+    "id": "servermobs:faulty_grenade_launcher"
+  }
+}

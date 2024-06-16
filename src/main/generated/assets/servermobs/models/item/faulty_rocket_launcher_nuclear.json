@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "servermobs:item/faulty_rocket_launcher_nuclear"
+  }
+}

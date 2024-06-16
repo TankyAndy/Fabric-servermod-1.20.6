@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_galvanized_square_steel": {
+      "conditions": {
+        "items": [
+          {
+            "items": "servermobs:galvanized_square_steel"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:galvanized_steel_bar"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_galvanized_square_steel"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:galvanized_steel_bar"
+    ]
+  }
+}

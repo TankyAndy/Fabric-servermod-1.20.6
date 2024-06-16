@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "servermobs:block/galvanized_square_steel_block",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "servermobs:block/galvanized_square_steel_block"
+    },
+    "axis=z": {
+      "model": "servermobs:block/galvanized_square_steel_block",
+      "x": 90
+    }
+  }
+}
