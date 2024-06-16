@@ -1,4 +1,12 @@
 {
   "item.servermobs.flashlightbeta": "FlashlightBeta",
-  "item.servermobs.flashlight": "Flashlight"
+  "item.servermobs.flashlight": "Flashlight",
+  "item.servermobs.guntest": "Guntest",
+  "block.servermobs.galvanized_square_steel": "Galvanized Square Steel",
+  "item.servermobs.galvanized_steel_sheet": "Galvanized Steel Sheet",
+  "item.servermobs.galvanized_steel_bar": "Galvanized Steel Bar",
+  "item.servermobs.faulty_rocket_launcher": "Faulty Rocket Launcher V2",
+  "item.servermobs.faulty_rocket_launcher_wd": "Faulty RL_Server/Execute",
+  "item.servermobs.faulty_grenade_launcher": "Faulty Rocket Launcher",
+  "item.servermobs.faulty_rocket_launcher_nuclear": "Faulty RL_NUCLEAR"
 }
